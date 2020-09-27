@@ -1,0 +1,13 @@
+C:\Users\Garamvölgyi Soma\OneDrive\Asztali gép\prggyhazi-20200927\prggyhazi-20200927\bin\Debug\netcoreapp3.1\prggyhazi-20200927.exe
+C:\Users\Garamvölgyi Soma\OneDrive\Asztali gép\prggyhazi-20200927\prggyhazi-20200927\bin\Debug\netcoreapp3.1\prggyhazi-20200927.deps.json
+C:\Users\Garamvölgyi Soma\OneDrive\Asztali gép\prggyhazi-20200927\prggyhazi-20200927\bin\Debug\netcoreapp3.1\prggyhazi-20200927.runtimeconfig.json
+C:\Users\Garamvölgyi Soma\OneDrive\Asztali gép\prggyhazi-20200927\prggyhazi-20200927\bin\Debug\netcoreapp3.1\prggyhazi-20200927.runtimeconfig.dev.json
+C:\Users\Garamvölgyi Soma\OneDrive\Asztali gép\prggyhazi-20200927\prggyhazi-20200927\bin\Debug\netcoreapp3.1\prggyhazi-20200927.dll
+C:\Users\Garamvölgyi Soma\OneDrive\Asztali gép\prggyhazi-20200927\prggyhazi-20200927\bin\Debug\netcoreapp3.1\prggyhazi-20200927.pdb
+C:\Users\Garamvölgyi Soma\OneDrive\Asztali gép\prggyhazi-20200927\prggyhazi-20200927\obj\Debug\netcoreapp3.1\prggyhazi-20200927.csprojAssemblyReference.cache
+C:\Users\Garamvölgyi Soma\OneDrive\Asztali gép\prggyhazi-20200927\prggyhazi-20200927\obj\Debug\netcoreapp3.1\prggyhazi-20200927.csproj.CoreCompileInputs.cache
+C:\Users\Garamvölgyi Soma\OneDrive\Asztali gép\prggyhazi-20200927\prggyhazi-20200927\obj\Debug\netcoreapp3.1\prggyhazi-20200927.AssemblyInfoInputs.cache
+C:\Users\Garamvölgyi Soma\OneDrive\Asztali gép\prggyhazi-20200927\prggyhazi-20200927\obj\Debug\netcoreapp3.1\prggyhazi-20200927.AssemblyInfo.cs
+C:\Users\Garamvölgyi Soma\OneDrive\Asztali gép\prggyhazi-20200927\prggyhazi-20200927\obj\Debug\netcoreapp3.1\prggyhazi-20200927.dll
+C:\Users\Garamvölgyi Soma\OneDrive\Asztali gép\prggyhazi-20200927\prggyhazi-20200927\obj\Debug\netcoreapp3.1\prggyhazi-20200927.pdb
+C:\Users\Garamvölgyi Soma\OneDrive\Asztali gép\prggyhazi-20200927\prggyhazi-20200927\obj\Debug\netcoreapp3.1\prggyhazi-20200927.genruntimeconfig.cache

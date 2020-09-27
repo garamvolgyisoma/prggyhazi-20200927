@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "prggyhazi-20200927/1.0.0": {
+        "runtime": {
+          "prggyhazi-20200927.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "prggyhazi-20200927/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
