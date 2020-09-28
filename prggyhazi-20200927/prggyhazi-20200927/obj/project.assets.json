@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Garamvölgyi Soma\\OneDrive\\Asztali gép\\prggyhazi-20200927\\prggyhazi-20200927\\prggyhazi-20200927.csproj",
+      "projectUniqueName": "C:\\Users\\Garamvölgyi Soma\\Source\\Repos\\prggyhazi-20200927\\prggyhazi-20200927\\prggyhazi-20200927\\prggyhazi-20200927.csproj",
       "projectName": "prggyhazi-20200927",
-      "projectPath": "C:\\Users\\Garamvölgyi Soma\\OneDrive\\Asztali gép\\prggyhazi-20200927\\prggyhazi-20200927\\prggyhazi-20200927.csproj",
+      "projectPath": "C:\\Users\\Garamvölgyi Soma\\Source\\Repos\\prggyhazi-20200927\\prggyhazi-20200927\\prggyhazi-20200927\\prggyhazi-20200927.csproj",
       "packagesPath": "C:\\Users\\Garamvölgyi Soma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Garamvölgyi Soma\\OneDrive\\Asztali gép\\prggyhazi-20200927\\prggyhazi-20200927\\obj\\",
+      "outputPath": "C:\\Users\\Garamvölgyi Soma\\Source\\Repos\\prggyhazi-20200927\\prggyhazi-20200927\\prggyhazi-20200927\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Garamvölgyi Soma\\AppData\\Roaming\\NuGet\\NuGet.Config",

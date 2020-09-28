@@ -69,6 +69,10 @@ namespace prggyhazi_20200927
 
                 default:
                     {
+                        Console.WriteLine();
+                        Console.WriteLine("Érvénytelen választás! Válassz újra!");
+                        Console.WriteLine();
+                        Console.WriteLine();
                         valaszto();
                         break;
                     }
